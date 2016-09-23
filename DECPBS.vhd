@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Daichi Mae
 -- 
 -- Create Date:    15:20:17 01/20/2010 
--- Design Name: 
+-- Design Name:    Positive Binary Decorder
 -- Module Name:    DECPBS - Behavioral 
 -- Project Name: 
 -- Target Devices: 

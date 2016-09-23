@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    14:57:36 11/24/2009 
--- Design Name: 
+-- Design Name:    Set Signal Generator
 -- Module Name:    SSG - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    16:40:16 12/06/2009 
--- Design Name: 
+-- Design Name:    Memory
 -- Module Name:    MEM - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

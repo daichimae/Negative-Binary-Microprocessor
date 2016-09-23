@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    15:32:48 12/03/2009 
--- Design Name: 
+-- Design Name:    Memory Device
 -- Module Name:    MEMDEV - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

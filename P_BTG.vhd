@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    12:19:40 11/16/2009 
--- Design Name: 
+-- Design Name:    Basic Timing Generator
 -- Module Name:    BTG - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

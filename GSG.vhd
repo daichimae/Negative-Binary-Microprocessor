@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    15:17:43 11/17/2009 
--- Design Name: 
+-- Design Name:    Gate Signal Generator
 -- Module Name:    GSG - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

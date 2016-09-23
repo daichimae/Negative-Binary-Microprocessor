@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    17:09:01 01/08/2010 
--- Design Name: 
+-- Design Name:    Negative Half Adder
 -- Module Name:    N_ADD - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Processor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    16:14:05 11/07/2009 
--- Design Name: 
+-- Design Name:    Operation Mode Controller
 -- Module Name:    OMC - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocesser
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

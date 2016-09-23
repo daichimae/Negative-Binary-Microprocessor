@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Daichi Mae
 -- 
 -- Create Date:    16:50:45 01/08/2010 
--- Design Name: 
+-- Design Name:    Negative Full Adder
 -- Module Name:    N_FA - Behavioral 
--- Project Name: 
+-- Project Name:   Negarive Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 

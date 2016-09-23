@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Daichi Mae
 -- 
 -- Create Date:    14:37:10 12/15/2009 
--- Design Name: 
+-- Design Name:    Flag Register
 -- Module Name:    FLG - Behavioral 
--- Project Name: 
+-- Project Name:   Negative Binary Microprocessor
 -- Target Devices: 
 -- Tool versions: 
 -- Description: 
